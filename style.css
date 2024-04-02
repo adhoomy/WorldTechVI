@@ -15,7 +15,7 @@
     font-size: 24px;
 }
 
-.links {
+.list {
     display: flex;
     color: #84a3bc;
     gap: 25px;
@@ -102,12 +102,8 @@
 }
 
 .review {
-    width: 500px;
-}
-
-.customer {
-    font-weight: 700;
-    text-align: right;
+    width: 700px;
+    text-align: center;
 }
 
 .section_four {
